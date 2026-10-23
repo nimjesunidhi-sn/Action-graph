@@ -1,0 +1,11 @@
+backend/.env
+backend/.venv/
+backend/actiongraph.db
+backend/storage/*
+!backend/storage/.gitkeep
+frontend/.env
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+.pytest_cache/
+*.py[cod]
